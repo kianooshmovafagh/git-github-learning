@@ -15,9 +15,9 @@ A practical repository documenting my journey of learning Git and GitHub through
 
 | #  |         Topic           |   Status    |
 |----|-------------------------|-------------|
-| 01 | Git Basics              | In Progress |
-| 02 | Branching               | In Progress |
-| 03 | Merging                 |   Planned   |
+| 01 | Git Basics              | Documentation Added |
+| 02 | Branching               | Documentation Added |
+| 03 | Merging                 |   Documentation Added   |
 | 04 | Remote Repositories     |   Planned   |
 | 05 | GitHub Workflow         |   Planned   |
 | 06 | Advanced Git Commands   |   Planned   |
