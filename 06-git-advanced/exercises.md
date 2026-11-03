@@ -242,17 +242,17 @@ git commit -m "test: add authentication tests"
 
 ## Learning Checklist
 
-- [ ] Inspect unstaged and staged changes.
-- [ ] Review commit history.
-- [ ] Create and use `.gitignore`.
-- [ ] Restore files and unstage changes.
-- [ ] Preview and remove untracked files.
-- [ ] Understand `git reset --soft`.
-- [ ] Understand `git reset --mixed`.
-- [ ] Understand `git reset --hard`.
-- [ ] Undo commits using `git revert`.
-- [ ] Compare branches.
-- [ ] Write meaningful commit messages.
+- [x] Inspect unstaged and staged changes.
+- [x] Review commit history.
+- [x] Create and use `.gitignore`.
+- [x] Restore files and unstage changes.
+- [x] Preview and remove untracked files.
+- [x] Understand `git reset --soft`.
+- [x] Understand `git reset --mixed`.
+- [x] Understand `git reset --hard`.
+- [x] Undo commits using `git revert`.
+- [x] Compare branches.
+- [x] Write meaningful commit messages.
 
 ---
 

@@ -119,6 +119,7 @@ Common Conventional Commit prefixes:
 - `feat:` New feature
 - `fix:` Bug fix
 - `docs:` Documentation changes
+- `style:` formatting changes
 - `refactor:` Code restructuring
 - `test:` Test-related changes
 - `chore:` Maintenance tasks
