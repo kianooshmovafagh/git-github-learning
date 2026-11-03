@@ -58,17 +58,17 @@ The goal is to understand how Git tracks changes, how different areas of a repos
 
 The following exercises are designed to reinforce the concepts through hands-on practice.
 
-- [ ] Write meaningful commit messages.
-- [ ] Compare working directory and staging area changes.
-- [ ] Compare two commits and two branches.
-- [ ] Configure and test `.gitignore`.
-- [ ] Inspect previous commits.
-- [ ] Restore modified and staged files.
-- [ ] Safely remove untracked files.
-- [ ] Practice all three `git reset` modes.
-- [ ] Revert a previous commit.
-- [ ] Resolve a revert conflict.
-- [ ] Interpret short status output.
+- [x] Compare working directory and staging area changes.
+- [x] Write meaningful commit messages.
+- [x] Compare two commits and two branches.
+- [x] Configure and test `.gitignore`.
+- [x] Inspect previous commits.
+- [x] Restore modified and staged files.
+- [x] Safely remove untracked files.
+- [x] Practice all three `git reset` modes.
+- [x] Revert a previous commit.
+- [x] Resolve a revert conflict.
+- [x] Interpret short status output.
 
 ## Important Notes
 
