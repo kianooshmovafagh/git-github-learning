@@ -272,14 +272,14 @@ For team projects, feature branches and pull requests are usually safer than com
 
 ## Chapter Checklist
 
-- [ ] I can explain Git vs. GitHub.
-- [ ] I can create a GitHub repository and clone it.
-- [ ] I can connect a local project to a remote repository.
-- [ ] I can inspect and manage remotes.
-- [ ] I can push a branch and set its upstream.
-- [ ] I understand the difference between fetch and pull.
-- [ ] I can inspect remote-tracking branches.
-- [ ] I can resolve a pull conflict and verify the result.
+- [x] I can explain Git vs. GitHub.
+- [x] I can create a GitHub repository and clone it.
+- [x] I can connect a local project to a remote repository.
+- [x] I can inspect and manage remotes.
+- [x] I can push a branch and set its upstream.
+- [x] I understand the difference between fetch and pull.
+- [x] I can inspect remote-tracking branches.
+- [x] I can resolve a pull conflict and verify the result.
 
 ## Related Files
 

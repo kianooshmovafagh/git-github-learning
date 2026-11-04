@@ -22,7 +22,7 @@ The goal is to build a solid version-control workflow that supports collaborativ
 | 01 | Git Basics | Completed |
 | 02 | Branching | Completed |
 | 03 | Merging | Completed |
-| 04 | Remote Repositories | Documentation Complete |
+| 04 | Remote Repositories | Completed |
 | 05 | GitHub Workflow | Planned |
 | 06 | Advanced Git | Completed |
 

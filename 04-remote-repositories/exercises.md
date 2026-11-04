@@ -156,13 +156,13 @@ Answer these questions in your own words:
 
 ## Completion Checklist
 
-- [ ] Created a GitHub repository.
-- [ ] Cloned a remote repository.
-- [ ] Connected an existing local repository.
-- [ ] Inspected and changed a remote.
-- [ ] Pushed a local commit.
-- [ ] Fetched remote changes without integrating them.
-- [ ] Pulled remote changes.
-- [ ] Created a local branch that tracks a remote branch.
-- [ ] Resolved a pull conflict.
-- [ ] Answered the workflow questions.
+- [x] Created a GitHub repository.
+- [x] Cloned a remote repository.
+- [x] Connected an existing local repository.
+- [x] Inspected and changed a remote.
+- [x] Pushed a local commit.
+- [x] Fetched remote changes without integrating them.
+- [x] Pulled remote changes.
+- [x] Created a local branch that tracks a remote branch.
+- [x] Resolved a pull conflict.
+- [x] Answered the workflow questions.
