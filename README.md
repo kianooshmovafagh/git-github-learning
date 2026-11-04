@@ -17,18 +17,18 @@ The goal is to build a solid version-control workflow that supports collaborativ
 
 ## Learning Roadmap
 
-| #   | Topic               | Status    |
-| --- | ------------------- | --------- |
-| 01  | Git Basics          | Completed |
-| 02  | Branching           | Completed |
-| 03  | Merging             | Completed |
-| 04  | Remote Repositories | Planned   |
-| 05  | GitHub Workflow     | Planned   |
-| 06  | Advanced Git        | Completed |
+| # | Topic | Status |
+| --- | --- | --- |
+| 01 | Git Basics | Completed |
+| 02 | Branching | Completed |
+| 03 | Merging | Completed |
+| 04 | Remote Repositories | Documented – Practice Pending |
+| 05 | GitHub Workflow | Planned |
+| 06 | Advanced Git | Completed |
 
 ## Repository Structure
 
-```text
+~~~text
 git-github-learning/
 ├── README.md
 ├── 01-git-basics/
@@ -40,13 +40,16 @@ git-github-learning/
 ├── 03-merging/
 │   ├── README.md
 │   └── commands.md
-├── 04-remote-repositories/    # Planned
-├── 05-github-workflow/        # Planned
+├── 04-remote-repositories/
+│   ├── README.md
+│   ├── commands.md
+│   └── exercises.md
+├── 05-github-workflow/       # Planned
 └── 06-git-advanced/
     ├── README.md
     ├── commands.md
     └── exercises.md
-```
+~~~
 
 ## Documentation
 
@@ -64,6 +67,12 @@ git-github-learning/
 
 - [Merging Overview](03-merging/README.md)
 - [Merging Commands](03-merging/commands.md)
+
+### 04. Remote Repositories
+
+- [Remote Repositories Overview](04-remote-repositories/README.md)
+- [Remote Repository Commands](04-remote-repositories/commands.md)
+- [Remote Repository Practical Exercises](04-remote-repositories/exercises.md)
 
 ### 06. Advanced Git
 
@@ -87,9 +96,9 @@ The repository is maintained using a practical Git workflow:
 3. Review changes before committing.
 4. Commit changes with descriptive messages.
 5. Push completed work to GitHub.
-6. Merge the work into the `main` branch.
+6. Merge the work into the main branch.
 7. Keep the repository clean and synchronized.
 
 ## About This Project
 
-This repository is a learning portfolio focused on version control and GitHub fundamentals. It records practical progress through documented concepts, command examples, and exercises. The upcoming sections will extend the repository with remote repository management and GitHub collaboration workflows.
+This repository is a learning portfolio focused on version control and GitHub fundamentals. It records practical progress through documented concepts, command examples, and exercises. The next section will extend the repository with GitHub collaboration workflows.
