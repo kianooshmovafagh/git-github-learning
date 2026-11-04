@@ -4,7 +4,7 @@
 
 A remote repository is a Git repository hosted somewhere other than your local machine. GitHub hosts Git repositories and adds collaboration features. Git performs version control; GitHub provides hosting, access control, code review, issues, pull requests, and automation.
 
-**Scope:** This chapter covers lessons 1–12 of the Sabzlearn Git & GitHub course: the GitHub interface, account and repository setup, clone, remote, push, pull, fetch, remote branches, and pull conflicts.
+**Scope:** This chapter covers GitHub repositories, repository setup, cloning, remote management, pushing, pulling, fetching, remote branches, and conflict resolution.
 
 ## Learning Objectives
 
@@ -286,21 +286,4 @@ For team projects, feature branches and pull requests are usually safer than com
 - [Remote Repository Commands](commands.md)
 - [Practical Exercises](exercises.md)
 
-## Course Video Mapping
 
-This chapter corresponds to **videos 1–12** in the Sabzlearn course:
-
-1. GitHub introduction and interface
-2. Creating a GitHub account
-3. git clone
-4. Creating a GitHub repository
-5. Connecting a project to GitHub
-6. git remote
-7. git push
-8. git pull
-9. git fetch
-10. Remote branches
-11. Understanding GitHub workflow
-12. git pull with conflicts
-
-Course: [Sabzlearn – Git & GitHub](https://sabzlearn.ir/course/git-github/)
